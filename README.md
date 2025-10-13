@@ -30,11 +30,11 @@ This project presents a **Personal Finance Dashboard** created in **Microsoft Ex
 ---
 
 ### 📂 Project Files
-(https://github.com/NoreenVizLogix/Personal-Finance-Dashboard-Excel/blob/main/Personal%20Finance%20data.xlsx.csv
+https://github.com/NoreenVizLogix/Personal-Finance-Dashboard-Excel/blob/main/Personal%20Finance%20data.xlsx.csv
 https://github.com/NoreenVizLogix/Personal-Finance-Dashboard-Excel/blob/main/dataset.png.png
 https://github.com/NoreenVizLogix/Personal-Finance-Dashboard-Excel/blob/main/finance%20dashboad.png.png
 https://github.com/NoreenVizLogix/Personal-Finance-Dashboard-Excel/blob/main/pivottable.png.png
-)
+
 
 ---
 
